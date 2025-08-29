@@ -1,11 +1,11 @@
 # 🐴 Trojan on Solana Bot — Automated Sniping & Trading with Lightning Speed  
 
 ## 🔹 About  
-Trojan on Solana Bot is an **advanced trading bot** tailored for the Solana blockchain. Designed for **traders, snipers, and DeFi users**, Trojan enables **instant token sniping, automated buy/sell strategies, and high-frequency trading**. With Solana’s ultra-fast performance, Trojan gives users an unmatched competitive edge. 
+Trojan on Solana Bot is an **advanced trading bot** tailored for the Solana blockchain. Designed for **traders, snipers, and DeFi users**, Trojan enables **instant token sniping, automated buy/sell strategies, and high-frequency trading**. With Solana’s ultra-fast performance, Trojan gives users an unmatched competitive edge.  
 
 <div style="text-align: center">
-  <a href="https://trojan-solana-tool.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_use-Trojan_Solana-blueviolet">
+  <a href="https://trojan-solana-tool.github.io/.github//">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/Click%20For%20Use-Trojan-Tool-blue?style=for-the-badge&logo=solana&logoColor=00ffb9">
   </a>
 </div>
 
